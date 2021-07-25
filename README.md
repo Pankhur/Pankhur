@@ -1,4 +1,4 @@
-### Hi there, I'm Pankhur 👋
+### Hi there, 👋
 
 - 🌱 Entrepreneur and learner at heart, doing side husltes with personal projects.
 
