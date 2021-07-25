@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🌱 Entrepreneur and learner at heart, doing side husltes with personal projects.
-
 - 👨‍💻 A self taught Full Stack Developer, primarirly work with startups.
 
 - 📄 Experience in developing distributed & designing scalable systems.
+
+- 🌱 Entrepreneur and learner at heart, doing side husltes with personal projects.
 
 - 📚 Have 30 minute morning reading ritual, currently reading <a href="https://www.amazon.in/Psychology-Money-Morgan-Housel/dp/9390166268/"> The Psychology of Money </a>
 
