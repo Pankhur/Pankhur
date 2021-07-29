@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👨‍💻 A self taught Full Stack Developer, primarirly work with startups.
+- 👨‍💻 A self taught Full Stack Developer & problem solver, primarirly work with startups.
 
-- 📄 Experience in developing distributed & designing scalable systems.
+- 📄 Experience in developing and designing scalable distributed systems.
 
 - 🌱 Entrepreneur and learner at heart, doing side husltes with personal projects.
 
@@ -15,6 +15,7 @@
 
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
