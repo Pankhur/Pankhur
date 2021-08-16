@@ -10,7 +10,7 @@
 
 - 📫 How to reach me  <a href="https://twitter.com/pankhurt"> <img src="https://img.shields.io/twitter/follow/pankhurt?label=Connect&style=social" /></a>
 
-- ⭐ Do write code for passion not for job.
+- ⭐ Do write code for passion not just for job.
 
 **Most of the dev time spent with :**  
 
