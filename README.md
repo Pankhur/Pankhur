@@ -4,7 +4,7 @@
 
 - 📄 Experience in developing and designing scalable distributed systems.
 
-- 🌱 Entrepreneur and learner at heart, doing side husltes with personal projects.
+- 🌱 Entrepreneur and learner at heart, doing side hustles with personal projects.
 
 - 📚 Daily 30 minute morning reading, currently reading <a href="https://www.amazon.in/Psychology-Money-Morgan-Housel/dp/9390166268/"> The Psychology of Money </a>
 
