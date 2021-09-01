@@ -6,7 +6,7 @@
 
 - 🌱 Entrepreneur and learner at heart, doing side hustles with personal projects.
 
-- 📚 Daily 30 minute morning reading, currently reading <a href="https://www.amazon.in/Psychology-Money-Morgan-Housel/dp/9390166268/"> The Psychology of Money </a>
+- 📚 Daily 30 minutes morning reading routine, currently <a href="https://www.amazon.in/Psychology-Money-Morgan-Housel/dp/9390166268/"> The Psychology of Money </a>
 
 - 📫 How to reach me  <a href="https://twitter.com/pankhurt"> <img src="https://img.shields.io/twitter/follow/pankhurt?label=Connect&style=social" /></a>
 
