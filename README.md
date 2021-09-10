@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 A self taught Full Stack Developer & problem solver, primarily work with startups.
+- 👨‍💻 Full Stack Developer & problem solver, primarily work with startups.
 
 - 📄 Experience in developing and designing scalable distributed systems.
 
