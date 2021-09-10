@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 Full Stack Developer & problem solver, primarily work with startups.
+- 👨‍💻 Full Stack Developer & problem solver, primarily work with startups, founding engineer.
 
 - 📄 Experience in developing and designing scalable distributed systems.
 
