@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-- 👨‍💻 A problem solver, CS engineer & developer.
+- 👨‍💻 A problem solver, CS engineer, expertise in Full Stack.
 
 - 📄 Experience in developing and designing scalable distributed systems.
 
 - 🌱 Entrepreneur and learner at heart, doing side hustles with personal projects.
 
-- 📚 Daily 30 minutes morning reading routine, currently <a href="https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/9352135245"> Designing Data Intensive Applications </a>
+- 📚 Currently reading <a href="https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/9352135245"> Designing Data Intensive Applications </a>
 
 - 📫 How to reach me  <a href="https://twitter.com/pankhurt"> <img src="https://img.shields.io/twitter/follow/pankhurt?label=Connect&style=social" /></a>
 
-- ⭐ Do write code for passion not just for job.
+- ⭐ With my so far career experience, i believe consistency, practice and up-skilling is the key.
 
 **Most of the dev time spent with :**  
 
